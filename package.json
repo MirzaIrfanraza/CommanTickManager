@@ -2,7 +2,7 @@
   "name": "com.irfanraza.commantickmanager",
   "version": "1.0.0",
   "displayName": "Comman Tick Manager",
-  "description": "Comman Tick Manager",
+  "description": "Comman Tick Manager for updating all the script from only one mono update.",
   "unity": "2017.4",
   "keywords": [
     "keyword",
