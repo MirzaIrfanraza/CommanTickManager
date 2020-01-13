@@ -15,4 +15,8 @@
     "email": "mirzairfanraza@gmail.com",
     "url": "https://github.com/MirzaIrfanraza/CommanTickManager/tree/master/CommanTickManager"
   }
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/MirzaIrfanraza/CommanTickManager.git"
+  }
 }
