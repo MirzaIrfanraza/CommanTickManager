@@ -1,0 +1,21 @@
+{
+  "name": "com.irfanraza.commantickmanager",
+  "version": "1.0.0",
+  "displayName": "Comman Tick Manager",
+  "description": "Comman Tick Manager",
+  "unity": "2017.4",
+  "keywords": [
+    "keyword",
+    "examplePackage",
+    "demoPackage"
+  ],
+  "dependencies": {},
+  "author": {
+    "name": "Irfanraza",
+    "email": "mirzairfanraza@gmail.com"
+  },
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/MirzaIrfanraza/CommanTickManager.git"
+  }
+}
